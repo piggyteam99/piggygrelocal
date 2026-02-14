@@ -6,8 +6,6 @@
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/piggyteam99/piggygrelocal/main/piggygre.sh -o piggygre.sh && chmod +x piggygre.sh && ./piggygre.sh
-
-
 ```
 
 ---

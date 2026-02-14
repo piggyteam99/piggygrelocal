@@ -5,7 +5,8 @@
 برای نصب و راه‌اندازی اسکریپت، دستورات زیر را در ترمینال وارد کنید:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/piggyteam99/piggygre/main/piggygre.sh -o piggygre.sh && chmod +x piggygre.sh && ./piggygre.sh
+curl -fsSL https://raw.githubusercontent.com/piggyteam99/piggygrelocal/main/piggygre.sh -o piggygre.sh && chmod +x piggygre.sh && ./piggygre.sh
+
 
 ```
 
